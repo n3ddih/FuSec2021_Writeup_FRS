@@ -6,9 +6,9 @@
 
 ## Brief
 
-The challenge is about hidden file height (the real height of image might be 500 but it only show 300).
+The challenge is about hidden file height. For example: an image has the real height of 500 but it only show 300 when you view it).
 
-We need to understand which byte of the file header contains height information.
+We need to identify which byte in the file header contains value of the height information.
 
 [Dowload file here](https://github.com/n3ddih/FuSec2021_Writeup_FRS/raw/main/FRS301/flag.bmp)
 
