@@ -10,7 +10,7 @@ The challenge is about hidden file height (the real height of image might be 500
 
 We need to understand which byte of the file header contains height information.
 
-[Dowload file here](flag.bmp)
+[Dowload file here](https://github.com/n3ddih/FuSec2021_Writeup_FRS/raw/main/FRS301/flag.bmp)
 
 ## Details
 
