@@ -10,7 +10,7 @@ The challenge is an audio that have morse code in it, but it also contains backg
 
 We can note it down manually by viewing the spectrogram of the audio in Audacity. Then decode it in [dcode.fr](https://www.dcode.fr/morse-code)
 
-[Download file here]()
+[Download file here](https://github.com/n3ddih/FuSec2021_Writeup_FRS/raw/main/FRS302/echoslambyjava.wav)
 
 ## Details
 
